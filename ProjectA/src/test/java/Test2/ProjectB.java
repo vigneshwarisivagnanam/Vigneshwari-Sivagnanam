@@ -16,7 +16,7 @@ public class ProjectB {
 	  WebElement element = driver.findElement(By.name("q"));
 	  element.sendKeys("Current sport news");
 	  element.submit();
-	 
+	 /** element.submit();"
   }
   }
   
