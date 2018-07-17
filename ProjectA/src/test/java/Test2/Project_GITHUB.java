@@ -22,8 +22,7 @@ public class Project_GITHUB {
 				  Assert.assertEquals(title,"Sign in to GitHub . GitHub");
 				  
 				  System.out.println("verified");
-				
-				  
+								  
 				  
 	}
 
